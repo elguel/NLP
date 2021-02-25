@@ -1,2 +1,2 @@
 # NLP
-word sense disambiguation
+word sense disambiguation project
